@@ -7,7 +7,7 @@
     "dependencies": {
         "@awspilot/dynamodb": "^1.2.10",
         "atob": "^2.1.2",
-        "aws-sdk": "^2.410.0",
+        "aws-sdk": "^2.814.0",
         "body-parser": "^1.18.3",
         "btoa": "^1.2.1",
         "ejs": "^2.6.1",
